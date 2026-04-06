@@ -43,13 +43,13 @@ logger = logging.getLogger(__name__)
 
 # TESTED COOKIES (Updated 2024-06-23)
 COOKIES = {
-    'ndut_fmt': '082E0D57C65BDC31F6FF293F5D23164958B85D6952CCB6ED5D8A3870CB302BE7',
-    'ndus': 'Y-wWXKyteHuigAhC03Fr4bbee-QguZ4JC6UAdqap',
+    'ndut_fmt': 'DCA006CA1D80060116E1E3713C857D470B192562E86105EAF9949A42DD330A74',
+    'ndus': 'Y4uGci3teHuiDuIfA4kaYW7icK-nxZB4XqELR3qT',
     '__bid_n': '196ce76f980a5dfe624207',
-    '__stripe_mid': '148f0bd1-59b1-4d4d-8034-6275095fc06f99e0e6',
-    '__stripe_sid': '7b425795-b445-47da-b9db-5f12ec8c67bf085e26',
-    'browserid': 'veWFJBJ9hgVgY0eI9S7yzv66aE28f3als3qUXadSjEuICKF1WWBh4inG3KAWJsAYMkAFpH2FuNUum87q',
-    'csrfToken': 'wlv_WNcWCjBtbNQDrHSnut2h',
+    '__stripe_mid': '00834c2f-bcd9-4c53-a908-f56bdbd11e531d2f59',
+    '__stripe_sid': '1abbe06d-9f33-4950-a39b-a43c15b08a79fbf23c',
+    'browserid': 'SMf74QmE9uGeqPJYljdeb4gp2dDxh9o0ybuh6-xaIrcvPKy65inJZQH-jXw=',
+    'csrfToken': 'QU--XTOnvubo5J-_ET3pnM4F',
     'lang': 'en',
     'PANWEB': '1',
     'ab_sr': '1.0.1_NjA1ZWE3ODRiYjJiYjZkYjQzYjU4NmZkZGVmOWYxNDg4MjU3ZDZmMTg0Nzg4MWFlNzQzZDMxZWExNmNjYzliMGFlYjIyNWUzYzZiODQ1Nzg3NWM0MzIzNWNiYTlkYTRjZTc0ZTc5ODRkNzg4NDhiMTljOGRiY2I4MzY4ZmYyNTU5ZDE5NDczZmY4NjJhMDgyNjRkZDI2MGY5M2Q5YzIyMg=='
