@@ -43,10 +43,10 @@ logger = logging.getLogger(__name__)
 
 # TESTED COOKIES (Updated 2024-06-23)
 COOKIES = {
-    'ndus': 'Y4uGci3teHuiDulfA4kaYW7icK-nzZB4XqElR3qT',
-    'ndut_fmt': 'A1B0FB465E925ED25D66648D056ED379688C41ED1BF1078B7A00953A107C215E',
-    'csrfToken': 'QU-XTOnvubo5J-_ET3pnM4F',
-    'browserid': 'SMf74QmE9uGeqPJYljdeb4gp2dDxh9o0ybuh6-xalrcvPKy65inJZQH-jXw=',
+    'ndus': 'Yerc_r3teHuiWWDtAeM5va5nq5uFW6OhgFHjMDdP',
+    'ndut_fmt': 'E94996F5FAE95601B1ED960FA183D6BC5CD413BF3842CD23B6832F2621653760',
+    'csrfToken': 'XYunwSepj5_Ng0pv3l5wasvz',
+    'browserid': 'eiYFbcbTltJNwXp5Lq1ikW3Bo19stC0-748Z1d5ssFnqP5ZgnXKPzxNMjDo=',
     'lang': 'en',
     'PANWEB': '1',
 }
